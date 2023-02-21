@@ -2,13 +2,15 @@
 title: Istoria Municipiului Bacău
 # email: your-email@example.com
 description: >- 
-  Istoria Municipiului Bacău
+  O istorie scurtă a municipiului Bacău
 baseurl: "/isdv-2023-jud"
 url: "https://onefieryfern.github.io"
+author: >-
+  Florea Andrei, prof. coordonator Crăciun Anca
 github_username: onefieryfern
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+#   - jekyll-feed
 
