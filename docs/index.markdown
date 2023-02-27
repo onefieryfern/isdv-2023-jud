@@ -7,6 +7,8 @@ Istoria Bacăului a început în neolitic, de când datează primele urme de loc
 
 --- <br>
 
+Denumirea orașului provine, după cum susțin unii istorici, de la un oarecare Bako, de la zeul Bachos, sau de la "baca" (fructul vitei-de-vie, ce se cultiva prin aceste părți). În documentele străine el mai apare și sub formele: Bacovia, Bacova, Bacow.
+
 La 6 octombrie 1408, Alexandru cel Bun, domnitorul Moldovei, acorda, printr-o carte domnească, unele privilegii, constând în scutiri sau reduceri de taxe vamale, negustorilor lioveni, care cumpărau, vindeau sau tranzitau mărfuri prin Moldova, stabilind sumele de bani care trebuiau plătite de aceştia la trecerea prin vămile ţării de la Suceava (vama principală), Iaşi, Tighina, Cetatea Albă, *Bacău*, Baia, Moldoviţa, Trotuş, Cernăuţi, Siret, Dorohoi, Hotin, Roman, Neamţ și Bârlad.
 
 Acest document, ne spune Vilică Munteanu - fost director al Arhivelor Statului Bacău - atestă pentru prima oară existenţa localităţilor *Bacău*, Cernauţi, Iaşi şi Trotuş, oraşe medievale, care, aşa cum demonstrează, fără putinţă de tăgadă, descoperirile în urma cercetărilor arheologice, existau cu mult timp înainte. Sunt de asemenea menţionate localităţi din Ţara Românească (Brăila) și Transilvania (Braşov şi Bistriţa). Actul a fost scris pe pergament în limba slavonă, cu scrierea semiuncială, cu litere mici, fără spaţii între cuvinte. A fost întărit cu pecetea mare domnească (diametrul de 11 cm) din ceară neagră, care avea în câmpul sigilar simbolul heraldic al Moldovei (capul de bour cu stea între coarne) şi legenda „+ Pecete Io Alexandru voievod, domn Ţarii Moldovei”. Redăm câteva fragmente: <br>
@@ -21,11 +23,11 @@ Vilică Munteanu ne mai spune: <br>
 
 În alte cercetări mai recente, Bacăul a mai îmbătrânit. Cercetătorul Ştefan S. Gorovei demonstrează că Bacăul are actul de naştere între anii 1391-1432, pe timpul domniei lui Petru I Muşat. La 15 aprilie 1400, aflăm că în Bacău se află o parte a Cavalerilor Ioaniţi, numiţi mai târziu Cavalerii de Malta.
 
+În 1467 localitatea Bacau este ocupată o vreme de oștile maghiare conduse de Matei Corvin.
+
 Între 1472-1491, Ştefan cel Mare a construit la Bacău o Curte domnească spre a-i servi drept reşedinţă fiului său Alexăndrel. În incinta acesteia a fost ridicată biserica Precista, sfinţită la 1 ianuarie 1491. Curtea a fost extinsă ulterior de Bogdan III, un alt fiu al lui Ştefan cel Mare. Bacău a fost ales ca loc pentru edificiul domnesc ţinând cont şi de faptul că aici se intersectau principalele drumuri comerciale din centrul şi vestul Moldovei: drumul moldovenesc ce venea dinspre nord pe Valea Siretului şi mergea spre Galaţi, cu ramificaţii spre Ţara Românească; drumurile sării şi păcurii care veneau de la Ocna pe Valea Tăzlăului şi de la Moineşti pe Valea Trotuşului; drumul Oituzului, care ducea în Transilvania. Fiind un important punct vamal, suficient de riguros pentru a se naşte expresia „Ţi-ai găsit Bacăul!”. <br>
 
 --- <br>
-
- <!-- Denumirea orasului provine dupa cum sustin unii istorici de la un oarecare Bako, de la zeul Bachos, sau de la "baca" (fructul vitei-de-vie, ce se cultiva prin aceste parti). In documentele straine el mai apare si sub formele: Bacovia, Bacova, Bacow. Prima atestare documentara dateaza din anul 1408, si anume privilegiul comercial pe care Alexandru cel Bun, Domnul Moldovei, l-a acordat negustorilor din Liov. In 1467 localitatea Bacau este ocupata o vreme de ostile maghiare conduse de Matei Corvin. -->
 
 Din documente de la sfârșitul secolului al XV-lea, aflam ca din punct de vedere demografic, asezarea se numara printre cele mai mari din Moldova (cam 4000 de case).
 
