@@ -26,8 +26,11 @@ Vilică Munteanu ne mai spune: <br>
 Între 1472-1491, Ştefan cel Mare a construit la Bacău o Curte domnească spre a-i servi drept reşedinţă fiului său Alexăndrel. În incinta acesteia a fost ridicată biserica Precista, sfinţită la 1 ianuarie 1491. Curtea a fost extinsă ulterior de Bogdan III, alt fiu al lui Ştefan cel Mare. Bacău a fost ales ca loc pentru edificiul domnesc ţinând cont şi de faptul că aici se intersectau principalele drumuri comerciale din centrul şi vestul Moldovei: drumul moldovenesc ce venea dinspre nord pe Valea Siretului şi mergea spre Galaţi, cu ramificaţii spre Ţara Românească; drumurile sării şi păcurii care veneau de la Ocna pe Valea Tăzlăului şi de la Moineşti pe Valea Trotuşului; drumul Oituzului, care ducea în Transilvania. Fiind un important punct vamal, suficient de riguros pentru a se naşte expresia „Ţi-ai găsit Bacăul!”. <br>
 Dacă la 1821 Bacăul număra puţin peste 1.000 de locuitori, ulterior s-a înregistrat o creştere demografică constantă, astfel că, în perioada interbelică, Bacăul se dezvoltă din punct de vedere urbanistic, fiind, după Bucureşti, al doilea oraş asfaltat din vechiul Regat.
 
-Datorită creşterii demografice dar şi economice, Bacăul este declarat municipiu la 7 decembrie 1929.
+
+
+<!-- Datorită creşterii demografice dar şi economice, Bacăul este declarat municipiu la 7 decembrie 1929. -->
 
 ---
 
-**Conținut adaptat după Deșteptarea © 2019-2023 - [Sursă](https://www.desteptarea.ro/scurta-istorie-de-611-ani-a-bacaului/)**
+**Conținut adaptat după Deșteptarea © 2019-2023 - [Sursă](https://www.desteptarea.ro/scurta-istorie-de-611-ani-a-bacaului/)** <br>
+**Conținut adaptat după artline.ro © 2012-2023 - [Sursă](https://www.artline.ro/Istoria-orasului-Bacau-12873-1-n.html)**
