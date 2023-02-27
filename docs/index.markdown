@@ -33,17 +33,17 @@ In anul 1476 Stefan cel Mare a poruncit arderea localitatii pentru a nu oferi ad
 
 --- <br>
 
-Sărind la anul 1832, Bacaul era impartit in doua mahalale, numite "ciastii", care purtau numele de Rosu si respectiv Negru. Ca si in restul tarii, in acea perioada iluminatul se facea cu felinare fixate de stalpii in care ardeau lumanari de seu. Mai tarziu au aparut lampile cu gaz (in locul lumanarilor) si abia in 1902 strazile au fost luminate cu ajutorul lampilor electrice. Bacaul a fost dintotdeauna un centru dezvoltat din punct de vedere comercial, in secolul al XIX-lea fiind deja orientat economic spre fabrici de hartie (1841), de cherestea, tabacarii si manufacturi de prelucrare a pieilor, fabrici de spirt si de caramizi, tigle si olane. In 1923 Ateneul isi deschide portile cu sprijinul dat de George Bacovia si Grigore Tabacaru. Mari figuri ale culturii si stiintei romanesti au numele legat de Bacau: Vasile Alecsandri, George Bacovia, biologul Ion Borcea.
+Sărind la anul 1832, Bacaul era împărțit in două mahalale, numite "ciastii", care purtau numele de Roșu și respectiv Negru. Ca și în restul țării, în acea perioadă iluminatul se făcea cu felinare fixate de stâlpii în care ardeau lumânări de [seu](https://dexonline.ro/definitie/seu). Mai târziu au apărut lămpile cu gaz - în locul lumanarilor - și abia în 1902 străzile au fost luminate cu ajutorul lămpilor electrice. Bacăul a fost dintotdeauna un centru dezvoltat din punct de vedere comercial, în secolul al XIX-lea fiind deja orientat economic spre fabrici de hartie (1841), de cherestea, tăbăcării și manufacturi de prelucrare a pieilor, fabrici de spirt si de cărămizi, țigle și olane. În 1923, Ateneul își deschide porțile cu sprijinul dat de George Bacovia si Grigore Tabacaru. Alte mari figuri ale culturii și științei românești au numele legat de Bacău, cum ar fi Vasile Alecsandri, George Bacovia și biologul Ion Borcea.
 
 --- <br>
 
-Dacă la 1821 Bacăul număra puţin peste 1.000 de locuitori, ulterior s-a înregistrat o creştere demografică constantă, astfel că, în perioada interbelică, Bacăul se dezvoltă din punct de vedere urbanistic, fiind, după Bucureşti, al doilea oraş asfaltat din vechiul Regat.
+Dacă la 1821 Bacăul număra puţin peste 1.000 de locuitori, ulterior s-a înregistrat o creştere demografică constantă, astfel încât în perioada interbelică Bacăul se dezvoltă din punct de vedere urbanistic, fiind - după Bucureşti - al doilea oraş asfaltat din vechiul Regat.
 
 Datorită creşterii demografice dar şi economice, Bacăul este declarat municipiu la 7 decembrie 1929.
 
 --- <br>
 
-Aici se încheie povestea dragului nostru municipiu de până acum. Pentru mai multe detalii istorice axate pe anumite părți ale orașului Bacău, accesează pagina [Istorie în detaliu]({{ "/istorie-in-detaliu" | relative_url }}).
+Aici se încheie povestea dragului nostru municipiu, până acum. Pentru mai multe detalii istorice axate pe anumite părți ale orașului Bacău, accesează pagina [Istorie în detaliu]({{ "/istorie-in-detaliu" | relative_url }}).
 
 ---
 
