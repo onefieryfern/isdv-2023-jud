@@ -7,12 +7,13 @@ baseurl: "/isdv-2023-jud"
 url: "https://onefieryfern.github.io"
 author: >-
   Florea Andrei, prof. coordonator Crăciun Anca
-github_username: onefieryfern
 
 # Build settings
 # theme: minima
 remote_theme: onefieryfern/minima@snapshot-2023-03-03
 minima:
   skin: solarized-light
+  social_links:
+    - { platform: github, user_url: "https://github.com/onefieryfern" }
 plugins:
 #   - jekyll-feed
