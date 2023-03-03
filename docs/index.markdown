@@ -4,7 +4,7 @@ title: "Istoria Bacăului"
 ---
 
 <img src="https://xn--urlaub-in-rumnien-2qb.de/wp-content/uploads/2021/01/bacau-hd-1.jpg" style="display: block; margin-left: auto; margin-right: auto;">
-<p style="text-align: center; color: gray;">Bacăul în prezent</p>
+<p style="text-align: center; color: lightgray;">Bacăul în prezent</p>
 
 &emsp;Istoria Bacăului a început în neolitic, de când datează primele urme de locuire umană, și se întinde până în prezent. Bacăul își are strămoșii până în comuna primitivă, mai precis în paleoliticul superior, cam 5.000 de ani în urmă. În perimetrul Pieții Revoluției s-a descoperit un [racloir](https://dexonline.ro/intrare/raclor/46865) de [silex](https://dexonline.ro/definitie/silex) negru-vinețiu de formă trapezoidală, obiect folosit la vânătoare în împrejurimile care atunci erau acoperite de păduri. O altă prezență umană în valea localității s-a descoperit cu ocazia săpăturilor pentru Pasajul Mărgineni. La opt metri adâncime, muncitorii au găsit urmele unei așezări din epoca mijlocie a bronzului – Cultura Monteoru. După cucerirea Daciei de către romani, zona a rămas în afara granițelor Imperiului Roman, ca fiind locuită de Carpi. O altă așezare din secolele IV-V d.Hr., compusă din șapte locuințe a fost cercetată în zona Curții Domnești. Putem considera că aici era o comunitate sătească autohtonă, continuatoare a comunității daco-romane.
 
@@ -23,7 +23,7 @@ title: "Istoria Bacăului"
 > Fiind acordat negustorilor lioveni, documentul s-a păstrat în arhiva orașului Lwow și a fost publicat prima oară, cu unele greșeli, în anul 1846 în „Acty zapad Ross. I”, iar apoi de E. Kaluzniacki în „Dokumenta moldawskie i multanskie z archiwum miasta Lwowa” (1878). În prezent, documentul original se păstrează la Ruskii Muzei din Moscova, de unde am primit o copie, care se păstrează la Arhivele Bacău.
 
 <img src="https://2.bp.blogspot.com/_gDpb4OhX7us/TQdJwIz19YI/AAAAAAAAABE/iPajqq_FdJQ/s1600/40.gif" style="display: block; margin-left: auto; margin-right: auto;">
-<p style="text-align: center; color: gray;">O vedere generală a Bacăului în trecut</p>
+<p style="text-align: center; color: lightgray;">O vedere generală a Bacăului în trecut</p>
 
 &emsp;În alte cercetări mai recente, Bacăul a mai îmbătrânit. Cercetătorul Ștefan S. Gorovei demonstrează că Bacăul are actul de naștere între anii 1391-1432, pe timpul domniei lui Petru I Mușat. La 15 aprilie 1400, aflăm că în Bacău se află o parte a Cavalerilor Ioaniți, numiți mai târziu Cavalerii de Malta.
 
@@ -58,7 +58,7 @@ Sărind la anul 1832, Bacaul era împărțit în două mahalale, numite "ciastii
 &emsp;Datorită creșterii demografice dar și economice, Bacăul este declarat municipiu la 7 decembrie 1929.
 
 <img src="https://1.bp.blogspot.com/_gDpb4OhX7us/TQdJuFoctRI/AAAAAAAAABA/FgLudhTiDg0/s1600/66.gif" style="display: block; margin-left: auto; margin-right: auto;">
-<p style="text-align: center; color: gray;">O grădină din Bacău, în trecut</p>
+<p style="text-align: center; color: lightgray;">O grădină din Bacău, în trecut</p>
 
 &emsp;Începând cu 1948, municipiul intra într-o nouă perioadă de transformări urbanistice.
 
@@ -73,7 +73,7 @@ Sărind la anul 1832, Bacaul era împărțit în două mahalale, numite "ciastii
 &emsp;Zonele rezidențiale ocupă aproximativ 80% din intravilan. În general se întrepătrund cu cele comerciale. Singurele cartiere rezidențiale propriu-zise sunt cele de la periferii: Gherăiești, Izvoare, Șerbănești, CFR, Tache, Mioriței, Nord. În concluzie, în evoluția teritorială a municipiului s-a înregistrat un maxim în secolul al XIX-lea urmat de un relativ dinamism. Aceasta a fost o creștere tentaculară datorită dezvoltării așezării în lungul axelor de circulație (Al. Ungureanu, 1980).
 
 <img src="https://i.pinimg.com/originals/cc/5c/ca/cc5ccafde42e30cdeea91e13614ef2e7.jpg" style="display: block; margin-left: auto; margin-right: auto;">
-<p style="text-align: center; color: gray;">O altă fotografie cu Bacăul în prezent</p>
+<p style="text-align: center; color: lightgray;">O altă fotografie cu Bacăul în prezent</p>
 
 &emsp;Aici se încheie povestea dragului nostru municipiu, până acum. Pentru mai multe detalii istorice axate pe anumite părți ale orașului Bacău, accesează pagina [Istorie în detaliu]({{ "/istorie-in-detaliu" | relative_url }}).
 
