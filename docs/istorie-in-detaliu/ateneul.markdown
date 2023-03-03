@@ -11,4 +11,4 @@ Astăzi, orchestra reunește un grup de aproximativ 75 de muzicieni talentați s
 
 ---
 
-**Conținut preluat de la și adaptat după Serviciul Public Judeţean pentru Promovarea Turismului şi Coordonarea Activităţii de Salvamont Bacău © 2020-2023 - [Sursă](https://turism-bacau.ro/atractii/ateneu-bacau/)**
+* **Conținut preluat de la și adaptat după Serviciul Public Judeţean pentru Promovarea Turismului şi Coordonarea Activităţii de Salvamont Bacău © 2020-2023 - [Sursă](https://turism-bacau.ro/atractii/ateneu-bacau/)**

@@ -19,4 +19,4 @@ Expoziţia şi Planetariul au fost menţinute permanent în atenţia publicului 
 
 ---
 
-<p style="text-indent: 0em">Conținut preluat de la și adaptat după Consiliul Județean Bacău  © 2016-2023 - <a href="http://observatorulastronomicbacau.ro/despre/istoric/">Sursă</a></p>
+* **Conținut preluat de la și adaptat după Consiliul Județean Bacău  © 2016-2023 - [Sursă](http://observatorulastronomicbacau.ro/despre/istoric/)**

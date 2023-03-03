@@ -9,4 +9,4 @@ Primul muzeu de istorie și științe ale naturii din municipiul Bacău a fost d
 
 ---
 
-**Conținut preluat de la și adaptat după Serviciul Public Judeţean pentru Promovarea Turismului şi Coordonarea Activităţii de Salvamont Bacău © 2020-2023 - [Sursă](https://turism-bacau.ro/atractii/complex-muzeal-de-stiintele-naturii-ion-borcea-bacau/)**
+* **Conținut preluat de la și adaptat după Serviciul Public Judeţean pentru Promovarea Turismului şi Coordonarea Activităţii de Salvamont Bacău © 2020-2023 - [Sursă](https://turism-bacau.ro/atractii/complex-muzeal-de-stiintele-naturii-ion-borcea-bacau/)**

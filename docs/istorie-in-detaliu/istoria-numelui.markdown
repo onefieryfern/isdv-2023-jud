@@ -11,5 +11,5 @@ Proveniența numelui orașului Bacău este discutată printre savanți, și se m
 
 ---
 
-**Conținut preluat de la și adaptat după TourismGuide.ro © 2003-2023 - [Sursă](https://www.tourismguide.ro/html/orase/Bacau/Bacau/istoric.php)** <br>
-**Conținut preluat de la și adaptat după Zig Zag prin Romania © 2018-2023 - [Sursă](http://zigzagprinromania.com/blog/muzeul-iulian-antonescu/)**
+* **Conținut preluat de la și adaptat după TourismGuide.ro © 2003-2023 - [Sursă](https://www.tourismguide.ro/html/orase/Bacau/Bacau/istoric.php)**
+* **Conținut preluat de la și adaptat după Zig Zag prin Romania © 2018-2023 - [Sursă](http://zigzagprinromania.com/blog/muzeul-iulian-antonescu/)**

@@ -31,4 +31,4 @@ Afișaj stradal
 
 ---
 
-**Conținut preluat de la și adaptat după Deșteptarea © 2010-2023 - [Sursă](https://web.archive.org/web/20100404042114/http://www.desteptarea.ro/despre-noi.html)**
+* **Conținut preluat de la și adaptat după Deșteptarea © 2010-2023 - [Sursă](https://web.archive.org/web/20100404042114/http://www.desteptarea.ro/despre-noi.html)**
