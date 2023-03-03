@@ -79,7 +79,7 @@ Sărind la anul 1832, Bacaul era împărțit în două mahalale, numite "ciastii
 
 ---
 
-**Conținut adaptat după Deșteptarea © 2019-2023 - [Sursă](https://www.desteptarea.ro/scurta-istorie-de-611-ani-a-bacaului/)** <br>
-**Conținut adaptat după artline.ro © 2012-2023 - [Sursă](https://www.artline.ro/Istoria-orasului-Bacau-12873-1-n.html)** <br>
-**Conținut adaptat după TourismGuide.ro © 2003-2023 - [Sursă](https://www.tourismguide.ro/html/orase/Bacau/Bacau/istoric.php)**
+**Conținut preluat de la și adaptat după Deșteptarea © 2019-2023 - [Sursă](https://www.desteptarea.ro/scurta-istorie-de-611-ani-a-bacaului/)** <br>
+**Conținut preluat de la și adaptat după artline.ro © 2012-2023 - [Sursă](https://www.artline.ro/Istoria-orasului-Bacau-12873-1-n.html)** <br>
+**Conținut preluat de la și adaptat după TourismGuide.ro © 2003-2023 - [Sursă](https://www.tourismguide.ro/html/orase/Bacau/Bacau/istoric.php)**
 
