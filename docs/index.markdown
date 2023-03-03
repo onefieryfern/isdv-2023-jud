@@ -43,7 +43,7 @@ Din documente de la sfârșitul secolului al XV-lea, aflăm că din punct de ved
 
 În anul 1476, Ștefan cel Mare a poruncit arderea localității, pentru a nu oferi adăpost invadatorilor otomani. După aceasta, orașul a renăscut foarte repede, încât în anul 1600 a salutat trecerea pe aici a lui Mihai Viteazul, care realiza pentru prima oara unirea celor trei țări române.
 
-Dintr-un târg vestit prin bogăția poamelor și produselor sale (D. Cantemir), Bacăul devine un orășel (Ieromonahul Vasenski, 170 – 1708), ținutul cel mai frumos și cel mai locuit din toată Moldova (Paul de Alep, 1656), cu poame de tot felul, vrednice a fi servite pe masa oricărui om de seamă (Piedro Deodato Baksici, 1641). 
+Dintr-un târg vestit prin bogăția poamelor și produselor sale (D. Cantemir), Bacăul devine un orășel, ținutul cel mai frumos și cel mai locuit din toată Moldova (Paul de Alep, 1656), cu poame de tot felul, vrednice a fi servite pe masa oricărui om de seamă (Piedro Deodato Baksici, 1641). 
 
 <!--
 --- <br>
