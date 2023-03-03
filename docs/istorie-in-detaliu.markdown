@@ -8,6 +8,9 @@ permalink: /istorie-in-detaliu/
     p {
         text-indent: 0em;
     }
+    a {
+        font-size: 1.2em;
+    }
 </style>
 
 \* [Istoria numelui Bacău]({{ "/istorie-in-detaliu/istoria-numelui" | relative_url }}) <br>
