@@ -28,3 +28,7 @@ Onești Expres
 
 Afișaj stradal
 * pentru afișaj stradal vă recomandăm ca suport punctele de vânzare presă (32 de puncte în municipiul Bacău). Acestea acoperă toate zonele din Bacău și centrele de preluare anunțuri publicitare din Bacău și Onești.
+
+---
+
+**Conținut preluat de la și adaptat după Deșteptarea © 2010-2023 - [Sursă](https://web.archive.org/web/20100404042114/http://www.desteptarea.ro/despre-noi.html)**
