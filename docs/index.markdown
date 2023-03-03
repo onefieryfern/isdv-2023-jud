@@ -53,7 +53,7 @@ Sărind la anul 1832, Bacaul era împărțit în două mahalale, numite "ciastii
 
 &emsp;În deceniile 6 - 8 ale secolului al XX-lea preocupările geografilor se intensifică, accentul căzând pe probleme de demografie, dezvoltare economică, urbanism, organizarea și amenajarea teritoriului și a spațiului urban. Toate abordările vor fi strict geografice: Sandru I., Câteva probleme de geografie ale orașului Bacău (1955), Aur N. și colaboratorii, revista Studii (1973), Sandru I., Toma C-tin V., Bacău. Studiu de geografie urbana, (1985), Ungureanu Al., Orașele din Moldova, (1980), Nechita Mariana, Modelarea antropică a mediului fizico-geografic al municipiului Bacău și împrejurimilor sale, poluarea și protecția sa.
 
-&emsp;În 1923, Ateneul își deschide porțile cu sprijinul dat de George Bacovia și Grigore Tabacaru. Alte mari figuri ale culturii și științei românești au numele legat de Bacău, cum ar fi Vasile Alecsandri, George Bacovia și biologul Ion Borcea.
+&emsp;În 1923, [Ateneul]({{ "/istorie-in-detaliu/ateneul" | relative_url }}) își deschide porțile cu sprijinul dat de George Bacovia și Grigore Tabacaru. Alte mari figuri ale culturii și științei românești au numele legat de Bacău, cum ar fi Vasile Alecsandri, George Bacovia și biologul Ion Borcea.
 
 &emsp;Datorită creșterii demografice dar și economice, Bacăul este declarat municipiu la 7 decembrie 1929.
 
